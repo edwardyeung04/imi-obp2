@@ -1,0 +1,6 @@
+Method,Reward,Reward (formatted),Training Time (min),Epochs,Source File
+expert,10001.849557563479,10001.8 (std: 114.7),0.0,0,halfcheetah_v4_actor_weights_eval_20250514_023536.json
+logprob,9806.434177348336,9806.4,15.3,50,logprob_20250519_032806.json
+autoreg,9435.344896283752,"9435.3 (S:9435.3, G:9435.3)",20.3,50,autoreg_20250518_192029.json
+diffusion,8964.355816733601,8964.4,31.5,50,diffusion_20250519_025053.json
+mog,8527.956465403553,8528.0,21.2,50,mog_20250518_182848.json
